@@ -1,0 +1,11 @@
+---
+title: "Welcome to my Website!"
+author: Andrey Pafnutyev
+date: 2024-01-28
+format: 
+    html:
+        theme: journal
+        toc: true
+---
+# Hello, World!  
+Welcome to my Quarto website. 
